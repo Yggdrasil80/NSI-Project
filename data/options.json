@@ -1,4 +1,4 @@
 {
     "is_init": true,
-    "use_keystore": false
+    "use_keystore": true
 }
